@@ -1,0 +1,17 @@
+{
+  "name": "ER89TGF903RJ9034090I3K4903T4J90GR09TK90T4T4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.17.1"
+  }
+}
